@@ -1,5 +1,5 @@
 # Amazon-AutomationProject
-Automate Search Mobile phones functionality on Online shopping Website 
+Automate Search Mobile phones functionality on Online shopping Website using Selenium
 
 Get mobiles smart phones from Amazon online store, which has: 
 
